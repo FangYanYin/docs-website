@@ -2,11 +2,11 @@
 layout: home
 
 hero:
-  name: 主标题
-  text: 内容信息
-  tagline: 副内容信息
+  name: 1111实验室
+  text: 笔记站点
+  tagline: 高效学习
   image:
-    src: /logo.png
+    src: ../static/img/logo.png
     alt: 网站的 logo 图片
   actions:
     - theme: brand
@@ -28,3 +28,4 @@ features:
 ---
 
 # Hello VitePress
+🤡
