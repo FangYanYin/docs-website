@@ -4,7 +4,7 @@ layout: home
 hero:
   name: 1111实验室
   text: 笔记站点
-  tagline: 高效学习
+  tagline: 让进步随处可见
   image:
     src: ../static/img/logo.png
     alt: 网站的 logo 图片
@@ -27,5 +27,4 @@ features:
     details: 这里是功能区 3 详情信息
 ---
 
-# Hello VitePress
-🤡
+<!-- # Hello VitePress -->
